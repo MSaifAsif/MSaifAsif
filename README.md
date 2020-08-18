@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align='center'> Hola! :wave:</h1>
+<p align='center'>
+I'm Saif. Nice of you to drop by
+</p>
+<p align='center'>For enquiries, reach out @ <code>saifasifmirza@gmail.com</code> or over on <a href="https://www.linkedin.com/in/saif-asif-67333559/">LinkedIn</a>.</p>
+
+<h1 align='center'><i>Stay cool!</i></h1>
+<hr />
+
+<h3>What I like to do</h3>
+<ul>
+  <li>Make the world a better place</li>
+  <li>Mentor and share what I am good at</li>
+  <li>Drive around and offroad</li>
+</ul>
