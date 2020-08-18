@@ -21,7 +21,6 @@ I'm Saif. Nice of you to drop by
 <p align='center'>For enquiries, reach out @ <code>saifasifmirza@gmail.com</code> or over on <a href="https://www.linkedin.com/in/saif-asif-67333559/">LinkedIn</a>.</p>
 
 <h1 align='center'><i>Stay cool!</i></h1>
-<hr />
 
 <h3>What I like to do</h3>
 <ul>
