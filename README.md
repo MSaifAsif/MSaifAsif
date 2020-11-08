@@ -10,6 +10,6 @@ I'm Saif. Nice of you to drop by
 <ul>
   <li>Make the world a better place while sipping some good espresso</li>
   <li>Mentor and share with everyone whatever I am good at</li>
-  <li>Drive around and offroad with the people I love</li>
+  <li>Drive around on & off road with the people I love</li>
   <li>... oh and some programming as well 😄</li>
 </ul>
