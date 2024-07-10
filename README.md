@@ -5,9 +5,22 @@
 ![githubbadge](https://img.shields.io/github/followers/msaifasif?style=social)
 ![githubbadge](https://img.shields.io/github/stars/msaifasif?style=social)
 
-A curious person who stumbled upon his first computer back in 2005 and wanted to try and install an OS on it. Tinkered with it a lot to figure out what and how it works (still figuring out most of how computers work even today), but fast forward to today I am now an able software engineer. 
+A curious person who got his first (used and old) computer back in 2005; an old pentium 1 with 96MB of RAM. Tinkered with it a lot to figure out what and how it works (still figuring out most of how computers work even today), but fast forward to today I am now an able to call myself a professional software engineer. 
 
-Got my first Apache code contribution back in 2016 that went in [commons-lang](https://github.com/apache/commons-lang/blob/master/src/changes/changes.xml#L685). A silver contributor to Java topic on [Stackoverflow](https://stackoverflow.com/users/2126023/saif-asif) and when I am not on the computer contributing and answering things, you will find me cooking up a delicious meal.
+Let's see, what did I do with it ... ?
+
+- Installed Fedora 2 on it; my first ever linux distro
+- Installed Eclipse IDE (I think it was 3.2 back then) and found the world of Java 1.5
+- Played around with how to [expand disks](https://learn.microsoft.com/en-us/windows/win32/fileio/basic-and-dynamic-disks#dynamic-disks), [grub](https://www.gnu.org/software/grub/) installer, multi os boot systems
+- Some [interesting projects](https://github.com/MSaifAsif/humble-beginnings) that survived the test of time and didn't get lost can be found [here](https://github.com/MSaifAsif/humble-beginnings)
+
+-----
+
+Fast forward to some of my proud achievements so far ...
+- Got my first Apache code contribution back in 2016 that went in [commons-lang](https://github.com/apache/commons-lang/blob/master/src/changes/changes.xml#L685).
+- Became a silver contributor to Java topic on [Stackoverflow](https://stackoverflow.com/users/2126023/saif-asif)
+- First beta tester for [MeerCat Manager](http://www.meercatmanager.com/) (link is now dead since it is a dead system).
+
 
 # Contributions summary
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MSaifAsif&theme=bear) 
