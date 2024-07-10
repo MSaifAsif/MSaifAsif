@@ -21,6 +21,7 @@ Fast forward to some of my proud achievements so far ...
 - 🥇 Got my first Apache code contribution back in 2016 that went in [commons-lang](https://github.com/apache/commons-lang/blob/master/src/changes/changes.xml#L685).
 - 🥈 Became a silver contributor to Java topic on [Stackoverflow](https://stackoverflow.com/users/2126023/saif-asif)
 - 🧪 First beta tester for [MeerCat Manager](http://www.meercatmanager.com/) (link is now dead since it is a dead system).
+- 🥇 Passed OCE, [JEE6 Web Component Developer](https://coderanch.com/t/616563/certification/Passed-OCE-JEE-Web-Component) exam
 
 
 # Contributions summary
