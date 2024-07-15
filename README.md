@@ -11,7 +11,7 @@ A curious person who got his first (used and old) computer back in 2005; an old 
 Let's see, what did I do with it ... ?
 
 - Installed Fedora 2 on it; my first ever linux distro
-- Installed Eclipse IDE (I think it was 3.2 back then) and found the world of Java 1.5
+- Installed Eclipse IDE (I think it was [3.2](https://archive.eclipse.org/eclipse/downloads/drops/R-3.2-200606291905/new_noteworthy/eclipse-news-all.html) back then) and found the world of Java 1.5
 - Played around with how to [expand disks](https://learn.microsoft.com/en-us/windows/win32/fileio/basic-and-dynamic-disks#dynamic-disks), [grub](https://www.gnu.org/software/grub/) installer, multi os boot systems
 - Some [interesting projects](https://github.com/MSaifAsif/humble-beginnings) that survived the test of time and didn't get lost can be found [here](https://github.com/MSaifAsif/humble-beginnings)
 
