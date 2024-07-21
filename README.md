@@ -6,6 +6,7 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/2126023/saif-asif)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saif-asif-67333559/)
 
+
 A curious person who got his first (used and old) computer back in 2005; an old pentium 1 with 96MB of RAM 🚀. Tinkered with it a lot to figure out what and how it works (still figuring out most of how computers work even today), but fast forward to today I am now an able to call myself a professional software engineer. 
 
 Let's see, what did I do with it ... ?
