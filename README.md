@@ -26,7 +26,7 @@ Fast forward to some of my proud achievements so far ...
 
 
 # Contributions summary
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MSaifAsif&theme=bear) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MSaifAsif&theme=bear)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MSaifAsif&theme=bear) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MSaifAsif&theme=bear) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MSaifAsif&theme=bear) 
