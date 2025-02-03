@@ -3,6 +3,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=msaifasif)](https://github.com/ryo-ma/github-profile-trophy)
 
 <a href="https://stackexchange.com/users/2436173"><img src="https://stackexchange.com/users/flair/2436173.png" width="208" height="58" alt="profile for Saif Asif on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Saif Asif on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+![Stack Overflow](https://img.shields.io/stackexchange/stackoverflow/r/2126023)
 ![githubbadge](https://img.shields.io/github/followers/msaifasif?style=social)
 ![githubbadge](https://img.shields.io/github/stars/msaifasif?style=social)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/2126023/saif-asif)
