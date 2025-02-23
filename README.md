@@ -1,13 +1,12 @@
 # Welcome to M Saif Asif's profle :wave:
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=msaifasif)](https://github.com/ryo-ma/github-profile-trophy)
-
-<a href="https://stackexchange.com/users/2436173"><img src="https://stackexchange.com/users/flair/2436173.png" width="208" height="58" alt="profile for Saif Asif on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Saif Asif on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 ![Stack Overflow](https://img.shields.io/stackexchange/stackoverflow/r/2126023)
 ![githubbadge](https://img.shields.io/github/followers/msaifasif?style=social)
 ![githubbadge](https://img.shields.io/github/stars/msaifasif?style=social)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/2126023/saif-asif)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saif-asif-67333559/)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=msaifasif)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 A curious person who got his first (used and old) computer back in 2005; an old pentium 1 with 96MB of RAM 🚀. Tinkered with it a lot to figure out what and how it works (still figuring out most of how computers work even today), but fast forward to today I am now an able to call myself a professional software engineer. 
