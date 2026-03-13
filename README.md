@@ -8,7 +8,7 @@
 </p>
 
 <p>Welcome to my page!</br>
-I'm <b>M Saif Asif</b>, a Software Engineer &amp; Social Entrepreneur from <img src="https://cdn-icons-png.flaticon.com/512/197/197571.png" width="13"/> <b>Germany</b> — a curious person who got his first (used and old) computer back in 2005; an old Pentium 1 with 96MB of RAM 🚀.</p>
+I'm <b>M Saif Asif</b>, a Software Engineer &amp; Social Entrepreneur — a curious person who got his first (super used and super old) computer back in 2005; an old Pentium 1 with 96MB of RAM 🚀.</p>
 <p>Tinkered with it a lot to figure out what and how it works (still figuring out most of how computers work even today), but fast forward to today I can now call myself a professional software engineer.</p>
 
 <p>Let's see, what did I do with it … ?</p>
