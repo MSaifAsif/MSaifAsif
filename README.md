@@ -22,10 +22,11 @@ I'm <b>M Saif Asif</b>, a Software Engineer &amp; Social Entrepreneur — a curi
 
 ### 🏆 Proud Achievements
 
-- 🥇 Got my first **Apache** code contribution in 2016 that went into [commons-lang](https://github.com/apache/commons-lang/blob/master/src/changes/changes.xml#L685)
+- 🥇 Got my first **Apache** code contribution in 2016 that went into [commons-lang](https://github.com/apache/commons-lang/blob/master/src/changes/changes.xml)
 - 🥈 Became a **silver contributor** to the Java topic on [StackOverflow](https://stackoverflow.com/users/2126023/saif-asif)
 - 🧪 First beta tester for [MeerCat Manager](http://www.meercatmanager.com/) _(link now dead since it is a dead system)_
 - 🥇 Passed OCE, [JEE6 Web Component Developer](https://coderanch.com/t/616563/certification/Passed-OCE-JEE-Web-Component) exam
+- 🥈 Early contributor to the _now_ deprecated [maven eclipse](https://maven.apache.org/plugins/maven-eclipse-plugin/) for Eclipse
 
 ---
 
